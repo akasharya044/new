@@ -1,0 +1,155 @@
+body {
+
+  margin: 0;
+  text-align: center;
+}
+hr
+{
+  border-top-style: dotted;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-right-style: none;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  border-width: 5px;
+
+}
+
+
+.title {
+  font-family: 'Kaushan Script', cursive;
+  color: red;
+}
+
+.sub_title {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.top_block {
+  text-align: center;
+  background-color: #C3F8FF;
+  padding: 300px;
+  position: relative;
+  font-size: 40px;
+}
+
+.first_cloud {
+  position: absolute;
+  right: 450px;
+  top: 90px;
+  width: 20%;
+}
+
+.second_cloud {
+  position: absolute;
+  left: 350px;
+  bottom: 290px;
+  width: 17%;
+}
+
+.mountain {
+  position: absolute;
+  bottom: 1px;
+  left: 660px;
+}
+
+.middle_block
+{
+   font-size: 25px;
+
+}
+.profile
+{
+  text-align: center;
+  background-color: #D8D8D8;
+  padding-top: 20px;
+
+
+}
+.second_title
+{
+  font-family: 'Arizonia', cursive;
+  font-size: 50px;
+  color: #25316D;
+}
+.Skills_class
+{
+  background-color:#EAE3D2;
+
+  margin: 0;
+  padding-bottom: 20px;
+  padding-top: 20px;
+
+
+}
+.skill-row
+{
+  position:relative;
+  left: 450px;
+  margin: 0;
+}
+.skill_image
+{
+  padding: 20px;
+  width:10%;
+}
+.skill_title
+{
+
+  text-align: center;
+  font-family: 'Arizonia', cursive;
+  color: #100720;
+  font-size: 50px;
+}
+.Hobbies-row
+{
+  text-align:center;
+  padding :0;
+  margin: 0;
+
+
+}
+.hobbies-image
+{
+  width:10%;
+  padding:20px;
+  margin: 0;
+}
+.hobbies_title
+{
+  font-family: 'Arizonia', cursive;
+  color: #100720;
+  font-size: 50px;
+}
+.contact-me
+{
+  background-color:#D9F8C4;
+  margin: 0;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  font-family: 'Arizonia', cursive;
+  color: #100720;
+  font-size: 50px;
+}
+.last_block
+{
+  background-color:#D9F8C4;
+  padding: 20px;
+  margin: 0;
+}
+.btn
+{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 20px;
+}
+.last_block
+{
+  font-size: 30px;
+}
+.contact_image
+{
+  width: 10%;
+  padding: 20px;
+  
+}
